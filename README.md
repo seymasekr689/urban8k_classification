@@ -1,2 +1,2 @@
 # urban8k_classification
-Kentsel Seslerin CNN ile Sınıflandırılması
+Classification of Urban Sounds with CNN
